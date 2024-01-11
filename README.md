@@ -2,6 +2,10 @@
 
 Este proyecto implementa el algoritmo de Dijkstra en C++14 utilizando el paradigma funcional. La implementación se basa en el código proporcionado, el cual fue originalmente desarrollado en Haskell. El objetivo principal es proporcionar una versión funcional y expresiva del algoritmo de Dijkstra en C++.
 
+### Autores:
+- **Bottini, Franco Nicolas**
+- **Robledo, Valentin**
+
 ## ¿Cómo clonar este repositorio?
 
 ```console
