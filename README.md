@@ -1,47 +1,47 @@
-# Algoritmo Dijkstra utilizando paradigma funcional con C++ 14
+# Dijkstra Algorithm Using Functional Paradigm in C++14
 
-Este proyecto implementa el algoritmo de Dijkstra en C++14 utilizando el paradigma funcional. La implementación se basa en el código proporcionado, el cual fue originalmente desarrollado en Haskell. El objetivo principal es proporcionar una versión funcional y expresiva del algoritmo de Dijkstra en C++.
+This project implements the Dijkstra algorithm in C++14 using the functional programming paradigm. The implementation is based on the provided code, which was originally developed in Haskell. The main goal is to provide a functional and expressive version of Dijkstra's algorithm in C++.
 
-### Autores:
+### Authors:
 - **Bottini, Franco Nicolas**
 - **Robledo, Valentin**
 
-## ¿Cómo clonar este repositorio?
+## How to Clone This Repository?
 
 ```console
 git clone https://github.com/francobottini99/PR-PARADFUNC-2023.git
 ```
 
-## ¿Cómo utilizar?
+## How to Use?
 
-Primero, nos desplazamos al directorio del proyecto.
+First, navigate to the project directory.
 
 ```console
 cd PR-PARADFUNC-2023/dijkstra_cpp
 ```
 
-Dentro del directorio del proyecto vamos a crear una carpeta llamada *build*.
+Within the project directory, create a folder named *build*.
 
 ```console
 mkdir build
 ```
 
-Nos desplazamos a dicha carpeta.
+Move to the *build* folder.
 ```console
 cd build
 ```
 
-Ejecutamos el comando de *cmake* dentro de la carpeta *build*.
+Run the *cmake* command inside the *build* folder.
 ```console
 cmake ..
 ```
 
-Ejecutamos el comando *make*, para obtener el archivo binario que se guarda dentro del directorio *bin*.
+Run the *make* command to generate the binary file, which is stored in the *bin* directory.
 ```console
 make
 ```
 
-Para ejecutar el programa.
+To execute the program:
 ```console
 ./bin/dijkstra
 ```
